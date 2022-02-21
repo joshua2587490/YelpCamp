@@ -1,3 +1,3 @@
 # YelpCamp
-here's link:
+link:
 https://evening-mesa-81132.herokuapp.com/
