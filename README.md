@@ -1,2 +1,2 @@
 # YelpCamp
-link: https://zhenhua-yelpcamp.herokuapp.com/
+link: https://zhenhua-yelpcamp.herokuapp.com
